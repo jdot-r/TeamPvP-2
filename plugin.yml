@@ -1,0 +1,19 @@
+name: TeamPvP
+main: TPP\Main
+version: "1.0.0"
+api: [1.0.0]
+author: LCraftPE
+commands:
+   team:
+    permissions: lcraftpe.command.team
+    description: Cree une team pvp.
+
+permissions:
+ lcraftpe.command.team:
+  description: Cree une team pvp.
+  default: op
+
+
+
+
+
